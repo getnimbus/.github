@@ -4,7 +4,8 @@ We support
 - 30+ CEXs
 - 30+ Chains
 
-Detail: [https://getnimbus.io/chains-support](https://getnimbus.io/chains-support)
+Chain integrated: [https://getnimbus.io/chains-support](https://getnimbus.io/chains-support)
+
 Homepage: [https://getnimbus.io](https://getnimbus.io)
 
 ## ✨ USP
